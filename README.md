@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><a href="https://qytdl.yonle.repl.co">QYTDL</a></h1>
+	<h1><a href="https://ymgdl.netlify.app">YmG</a></h1>
 	<p>A Quick Youtube downloader that let's you download youtube video in lightning speed!</p>
 </div>
 

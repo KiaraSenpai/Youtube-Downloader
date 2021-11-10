@@ -5,25 +5,17 @@
 
 ## Setup
 ```bash
-git clone https://github.com/Yonle/qytdl.git
-cd qytdl
+git clone https://github.com/Kousukeyama/Youtube-Downloader.git
+cd Youtube-Downloader
 npm install
 ```
 
 ## Running
-By default, qytdl is listening on port 3000. You can also modify it by giving `PORT` env value.
+By Defauly YenaMinjuGadoo Downloader is On Port 3000 You Can modifed What Ever You Want
 ```bash
 PORT=8080 node index.js
 ```
 
 ## Known Mirror
-This is the list of known mirror. If you want to submit your mirror, Feel free to submit your mirror [here](https://github.com/Yonle/qytdl/issues/2). Other mirror also included at [here](https://github.com/Yonle/qytdl/issues/2).
+This is the list of known mirror. If you want to submit your mirror, Feel free to submit your mirror [here](https://github.com/KousukeYama/Youtube-Downloader/issues). Other mirror also included at [here](https://github.com/KousukeYama/Youtube-Downloader/issues).
 
-- https://qytdl.herokuapp.com (US)
-- https://qytdl.herokuapp.com (EU)
-- https://qytdl.yonle.repl.co (US)
-- https://qytdl.glitch.me (US Amazon)
-
-## Community
-- [Discord](https://quickstream.yonle.repl.co)
-- [Telegram](https://t.me/yonlecoder)

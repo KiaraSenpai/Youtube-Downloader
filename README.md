@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><a href="https://ymgdl.netlify.app">YmG</a></h1>
+	<h1><a href="https://kiarasenpai.repl.co">Kiara Downloader</a></h1>
 	<p>A Quick Youtube downloader that let's you download youtube video in lightning speed!</p>
 </div>
 
@@ -19,4 +19,4 @@ PORT=8080 node index.js
 ## Known Mirror
 This is the list of known mirror. If you want to submit your mirror, Feel free to submit your mirror [here](https://github.com/Kiarasenpai/Youtube-Downloader/issues). Other mirror also included at [here](https://github.com/KiaraSenpai/Youtube-Downloader/issues).
 
-## You Can See Example [Here](https://ymgdl.netlify.app)
+## You Can See Example [Here](https://kiarasenpai.repl.co)

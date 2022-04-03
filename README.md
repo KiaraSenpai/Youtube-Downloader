@@ -5,7 +5,7 @@
 
 ## Setup
 ```bash
-git clone https://github.com/Kousukeyama/Youtube-Downloader.git
+git clone https://github.com/KiaraSenpai/Youtube-Downloader.git
 cd Youtube-Downloader
 npm install
 ```
@@ -17,6 +17,6 @@ PORT=8080 node index.js
 ```
 
 ## Known Mirror
-This is the list of known mirror. If you want to submit your mirror, Feel free to submit your mirror [here](https://github.com/KousukeYama/Youtube-Downloader/issues). Other mirror also included at [here](https://github.com/KiaraSenpai/Youtube-Downloader/issues).
+This is the list of known mirror. If you want to submit your mirror, Feel free to submit your mirror [here](https://github.com/Kiarasenpai/Youtube-Downloader/issues). Other mirror also included at [here](https://github.com/KiaraSenpai/Youtube-Downloader/issues).
 
 ## You Can See Example [Here](https://ymgdl.netlify.app)
